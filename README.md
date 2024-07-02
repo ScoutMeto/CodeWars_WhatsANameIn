@@ -1,1 +1,3 @@
 # CodeWars_WhatsANameIn
+
+https://www.codewars.com/kata/59daf400beec9780a9000045
